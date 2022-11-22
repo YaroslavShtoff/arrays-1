@@ -99,7 +99,7 @@ public class Main {
             if (data[i] % 2 != 0) {
                 data[i] += 1;
             }
-            System.out.println(data[i]);
+            System.out.print(data[i]);
         }
 
     }
